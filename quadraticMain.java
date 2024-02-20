@@ -53,6 +53,6 @@ class quadraticMain
         Quadratic q = new Quadratic();
         q.getd();
         q.compute();
-        System.out.println("1BM22CS214 Raghavendra R");
+        System.out.println("1BM22CS214 REVANTH K");
     }
 }
